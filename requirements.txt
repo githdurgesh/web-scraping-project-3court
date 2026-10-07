@@ -1,0 +1,11 @@
+requests
+pydantic
+python-dotenv
+fastapi
+uvicorn
+paddleocr
+paddlepaddle
+opencv-python
+numpy
+beautifulsoup4
+pydantic-settings
